@@ -2,4 +2,4 @@ abc 1st
 
 test git prunch
 
-
+again git delete remote branch
