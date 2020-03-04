@@ -1,5 +1,5 @@
 abc 1st
 
-test git prunch
+test git fetch prune
 
-
+again git delete remote branch
