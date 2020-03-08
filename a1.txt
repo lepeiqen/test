@@ -1,4 +1,6 @@
-abc 1st
+git diff br1 br2
+
+git rebase to change intermediate commit
 
 test git fetch prune
 
